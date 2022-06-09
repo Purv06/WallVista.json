@@ -45,7 +45,7 @@
 	      "author": "JNW",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20105.png",
 	      "name": "wall 8",
-	      "collections": "Pastel"
+	      "collections": "Vectors"
 	    },
 	    {
 	      "author": "JNW",
@@ -279,7 +279,7 @@
 	      "author": "JNW",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%2026.png",
 	      "name": "wall 47",
-	      "collections": "Vector"
+	      "collections": "Vectors"
 	    },
 	    {
 	      "author": "JNW",
@@ -387,7 +387,7 @@
 	      "author": "JNW",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%2043.png",
 	      "name": "wall 65",
-	      "collections": "Vector"
+	      "collections": "Vectors"
 	    },
 	    {
 	      "author": "JNW",
@@ -742,5 +742,66 @@
 	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%2099.png",
 	      "name": "wall 124",
 	      "collections": "Vectors"
-	    }  
+	    },
+	    	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20127.png",
+	      "name": "wall 125",
+	      "collections": "Illustration"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20128.png",
+	      "name": "wall 126",
+	      "collections": "Nature"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20129.png",
+	      "name": "wall 127",
+	      "collections": "Abstract"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20130.png",
+	      "name": "wall 128",
+	      "collections": "Abstract"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20131.png",
+	      "name": "wall 129",
+	      "collections": "Vectors"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20133.png",
+	      "name": "wall 130",
+	      "collections": "Fluid"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20134.png",
+	      "name": "wall 131",
+	      "collections": "Abstract"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20135.png",
+	      "name": "wall 132",
+	      "collections": "Abstract"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20136.png",
+	      "name": "wall 133",
+	      "collections": "Vectors"
+	    },
+	    {
+	      "author": "JNW",
+	      "url": "https://raw.githubusercontent.com/Purv06/WallVista.json/main/JNW%20137.png",
+	      "name": "wall 134",
+	      "collections": "Vectors"
+	    }
 ]
